@@ -185,6 +185,10 @@ a {
   border: 1px solid var(--secondary-color2) !important;
 }
 
+.invisible {
+  display: none !important;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
