@@ -172,6 +172,19 @@ a {
   color: var(--neutral-color1);
 }
 
+.error-text {
+  color: var(--secondary-color2);
+  margin-top: -10px;
+  margin-bottom: 20px;
+  font-size: 12px;
+  text-align: center;
+  font-style: italic;
+}
+
+.error {
+  border: 1px solid var(--secondary-color2) !important;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
