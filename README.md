@@ -93,7 +93,7 @@ Had a somewhat hard time changing the text content of one of my HTML elements th
 
 - Website - [Github Profile](https://github.com/AlexdelCarmen)
 - Frontend Mentor - [@AlexdelCarmen](https://www.frontendmentor.io/profile/AlexdelCarmen)
-- Twitter - [@AlekBorchov](https://twitter.com/AlekBorchov)
+- Mastodon - [cyborg_werewolf](https://mstdn.party/@cyborg_werewolf)
 
 ## Acknowledgments
 
